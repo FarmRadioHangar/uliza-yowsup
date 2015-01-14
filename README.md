@@ -4,6 +4,7 @@ Experimenting with yowsup here.
 Steps to install:
 
 `sudo apt-get install python-dev`
+
 `sudo pip install yowsup2`
 
 Registration: https://github.com/tgalal/yowsup/wiki/yowsup-cli-2.0#yowsup-cli-registration
@@ -17,16 +18,15 @@ then you should get an sms code to register - use it like this:
 
 You should get a response like this:
 
-`status: ok
+status: ok
 kind: free
-pw: ESYCCDW+/vQM4+FUHpqAc4x6y1A=
+pw: ESYCCDW+/vQM4+FUHpqAc4x6yxx=
 price: US$0.99
 price_expiration: 1423958598
 currency: USD
 cost: 0.99
 expiration: 1452754091
-login: 255787999994
+login: 2557879999xx
 type: existing
-`
 
 
