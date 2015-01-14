@@ -36,9 +36,12 @@ Finally - create a file in your home directory like /home/user/.config/yowsup/co
  id=8685230130259xx      #IMEI found on Android Settings->About phone
  password=ESYCCDW+/vQM4+FUHpqAc4x6yxx= #My whatsapp password followed by one '='~
  
+ Test via the CLI:
+ 
  Finally - you should be able to run it like this: 
  
  `yowsup-cli demos --yowsup --config /home/bart/.config/yowsup/config.txt`
  
  Once started, you can login by typing \L
 
+Run the app... tbd
