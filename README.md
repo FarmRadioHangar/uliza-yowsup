@@ -29,4 +29,16 @@ expiration: 1452754091
 login: 2557879999xx
 type: existing
 
+Finally - create a file in your home directory like /home/user/.config/yowsup/config.txt with this:
+
+ cc=255       #tanzania                                                                                     
+ phone=2557879999xx
+ id=8685230130259xx      #IMEI found on Android Settings->About phone
+ password=ESYCCDW+/vQM4+FUHpqAc4x6yxx= #My whatsapp password followed by one '='~
+ 
+ Finally - you should be able to run it like this: 
+ 
+ `yowsup-cli demos --yowsup --config /home/bart/.config/yowsup/config.txt`
+ 
+ Once started, you can login by typing \L
 
